@@ -1,9 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "Guajolotas": [
+        {
+            "name": "Verde",
+            "price": "$25 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706148095/Guajolotas/Verde.png",
+            "id": 1
+        },
+        {
+            "name": "Mole",
+            "price": "$25 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706148664/Guajolotas/Mole.png",
+            "id": 2
+        },
+        {
+            "name": "Guayaba ",
+            "price": "$25 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706148664/Guajolotas/Guayaba.png",
+            "id": 3
+        },
+        {
+            "name": "Piña",
+            "price": "$25 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706148664/Guajolotas/Pi%C3%B1a.png",
+            "id": 4
+        },
+        {
+            "name": "Pasas",
+            "price": "$25 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706148664/Guajolotas/Pasas.png",
+            "id": 5
+        }
+    ],
+    "Bebidas": [
+        {
+            "name": "Champurrado",
+            "price": "$12 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149269/Guajolotas/Bebidas/tzeqihdbtcdin0ux9ji6.png",
+            "id": 6
+        },
+        {
+            "name": "Atole de Arroz con Leche",
+            "price": "$12 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149269/Guajolotas/Bebidas/a5vmjqu6oph1pmexaqjg.png",
+            "id": 7
+        },
+        {
+            "name": "Chocolate Caliente",
+            "price": "$12 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149269/Guajolotas/Bebidas/kqh2ayhkya4rh2wgih3z.png",
+            "id": 8
+        },
+        {
+            "name": "Café Negro",
+            "price": "$12 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149269/Guajolotas/Bebidas/dvdfckps4tlklokutue8.png",
+            "id": 9
+        }
+    ],
+    "Tamales": [
+        {
+            "name": "Tamal Verde",
+            "price": "$14 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149470/Guajolotas/Tamales/uuf10uiqxosg2xra05wj.png",
+            "id": 10
+        },
+        {
+            "name": "Tamal de Mole",
+            "price": "$14 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149470/Guajolotas/Tamales/higzjih6yassnuiuki2s.png",
+            "id": 11
+        },
+        {
+            "name": "Tamal de Guayaba",
+            "price": "$14 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149470/Guajolotas/Tamales/sur5mgozdlggabg6b7wm.png",
+            "id": 12
+        },
+        {
+            "name": "Tamal de Piña",
+            "price": "$14 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149470/Guajolotas/Tamales/kdsydgrz8bsvammfynpp.png",
+            "id": 13
+        },
+        {
+            "name": "Tamal de Pasas",
+            "price": "$14 MXN",
+            "image": "https://res.cloudinary.com/dkb4ozyhh/image/upload/v1706149470/Guajolotas/Tamales/kck9la43gjrg1npb8ere.png",
+            "id": 14
+        }
+    ]
 }
